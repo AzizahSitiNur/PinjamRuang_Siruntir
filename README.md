@@ -155,7 +155,3 @@ Admin dapat mengekspor laporan peminjaman ke dalam format PDF untuk keperluan do
 
 ---
 
-## Lisensi
-
-Tambahkan informasi lisensi proyek Anda di sini (misalnya MIT, proprietary, dsb.).
-
